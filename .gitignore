@@ -1,0 +1,54 @@
+# General
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.*.swp
+
+# Backup files
+*.bak
+*.backup
+*-backup.md
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.obsidian/
+
+# OS generated files
+desktop.ini
+
+# Node modules (if you add any automation tools later)
+node_modules/
+
+# Python cache (if you add any Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Log files
+*.log
+
+# Personal sensitive information
+*-private.md
+*-sensitive.md
+private/
+sensitive/
+
+# Draft files
+*-draft.md
+drafts/
